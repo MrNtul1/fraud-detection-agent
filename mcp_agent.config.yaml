@@ -1,0 +1,7 @@
+mcp:
+  servers:
+    fastmcp:
+      command: "python"
+      args: [tools_server]
+openai:
+default_model: gpt-4o-mini

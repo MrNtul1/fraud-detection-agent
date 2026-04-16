@@ -1,0 +1,4 @@
+mcp_agent.secrets.yaml
+__pycache__/
+*.pyc
+.env
